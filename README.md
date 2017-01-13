@@ -39,7 +39,7 @@ All the components of Recharts are clearly separated. The lineChart is composed 
 ## Demo
 
 To examine the demos in your local build, execute
-  npm run-script demo
+  npm run demo
 and then browse to http://localhost:3000 
 
 ## Module Formats
